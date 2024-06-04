@@ -1,4 +1,37 @@
 ## Hi there 👋
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://avatars.githubusercontent.com/u/131323586?v=4">
+ <source media="(prefers-color-scheme: light)" srcset="https://avatars.githubusercontent.com/u/131323586?v=4E">
+ <img alt="YOUR-ALT-TEXT" src="[YOUR-DEFAULT-IMAGE](https://avatars.githubusercontent.com/u/131323586?v=4)">
+</picture>
+
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+| Rank | THING-TO-RANK |
+|-----:|---------------|
+|     1|               |
+|     2|               |
+|     3|               |
+
+<details>
+<summary>My top THINGS-TO-RANK</summary>
+
+| Rank | THING-TO-RANK |
+|-----:|---------------|
+|     1|               |
+|     2|               |
+|     3|               |
+
+</details>
+
 
 <!--
 **KennuC/KennuC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
