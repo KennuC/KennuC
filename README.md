@@ -1,10 +1,16 @@
-## Hi there 👋
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://avatars.githubusercontent.com/u/131323586?v=4">
- <source media="(prefers-color-scheme: light)" srcset="https://avatars.githubusercontent.com/u/131323586?v=4E">
- <img alt="YOUR-ALT-TEXT" src="[YOUR-DEFAULT-IMAGE](https://avatars.githubusercontent.com/u/131323586?v=4)">
-</picture>
+## Hi there 👋, I'm Kennu
 
+# Welcome to My GitHub Profile!
+I'm a passionate cybersecurity student dedicated to exploring and mastering the field of cybersecurity. Here, you'll find a showcase of my projects and certifications. Feel free to explore and reach out if you have any questions or collaboration ideas!
+
+## Certificates
+| Certificate Name                         | Issuing Organization      | Issue Date      | Credential ID    |
+| ---------------------------------------- | ------------------------- | --------------- | ---------------- |
+| [Google Cybersecurity Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity) | Coursera               | October 2023    | [Certificate](https://www.coursera.org/account/accomplishments/professional-cert/J6VT6AZLUPLG)        |
+
+## TryHackMe Badge
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/KennuC.png" alt="TryHackMe">
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -32,18 +38,19 @@
 
 </details>
 
+## 💻 Projects
 
-<!--
-**KennuC/KennuC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Project 1: 
+- **Description:** Developed a network intrusion detection system using Snort and custom Python scripts to detect and alert suspicious network activities.
+- **Technologies:** Snort, Python, Wireshark
+- **Repository:** [NetworkIDS](https://github.com/yourusername/NetworkIDS)
 
-Here are some ideas to get you started:
+### Project 2: 
+- **Description:** 
+- **Technologies:** 
+- **Repository:** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Project 3: 
+- **Description:** 
+- **Technologies:** 
+- **Repository:** [Python](https://github.com/KennuC/Python)
