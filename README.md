@@ -17,10 +17,13 @@ I'm a passionate cybersecurity student dedicated to exploring and mastering the 
 </p>
 
 <p align="left"> 
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="virtualbox" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="kali" width="40" height="40"/> </a> 
+  <a href="https://www.debian.org/" target="_blank" rel="noreferrer"> <img src="https://www.debian.org/logos/openlogo-nd.svg" alt="debian" width="40" height="40"/> </a> 
   <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" alt="wireshark" width="40" height="40"/> </a> 
+  
 </p>
 
 | Rank | THING-TO-RANK |
@@ -42,10 +45,10 @@ I'm a passionate cybersecurity student dedicated to exploring and mastering the 
 
 ## 💻 Projects
 
-### Project 1: 
-- **Description:** Developed a network intrusion detection system using Snort and custom Python scripts to detect and alert suspicious network activities.
-- **Technologies:** Snort, Python, Wireshark
-- **Repository:** [NetworkIDS](https://github.com/yourusername/NetworkIDS)
+### Project 1: Network Simulation
+- **Description:** 
+- **Technologies:** Cisco Packet Tracer
+- **Repository:** [Cisco Packet Tracer](https://github.com/KennuC/CiscoPacketTracer)
 
 ### Project 2: 
 - **Description:** 
