@@ -1,7 +1,9 @@
 ## Hi there 👋, I'm Kennu
 
 # Welcome to My GitHub Profile!
-I'm a passionate cybersecurity student dedicated to exploring and mastering the field of cybersecurity. Here, you'll find a showcase of my projects and certifications.
+I'm a passionate cybersecurity student dedicated to exploring and mastering the field of cybersecurity. Here, you'll find a showcase of my projects and certifications. 
+
+This page development is still under progress.
 
 ## Certificates
 | Certificate Name                         | Issuing Organization      | Issue Date      | Credential ID    |
