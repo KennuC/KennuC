@@ -58,6 +58,11 @@ My journey in programming has led me to develop a passion for cybersecurity, and
 - **Technologies:** Python, VSCode
 - **Repository:** [Python](https://github.com/KennuC/Python)
 
+### Project 3: 
+- **Description:** Active Directory
+- **Technologies:** VirtualBox
+- **Repository:** 
+
 ## TryHackMe 
 Click to view my profile to see rooms I've completed
 <p><a href="https://tryhackme.com/p/KennuC" target="_blank" rel="noreferrer"> <img src="https://tryhackme-badges.s3.amazonaws.com/KennuC.png" alt="TryHackMe"></p>
