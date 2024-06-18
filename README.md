@@ -25,43 +25,44 @@ My journey in programming has led me to develop a passion for cybersecurity, and
 | [Certificate IV in Cyber Security](https://www.tafensw.edu.au/course-areas/information-and-communication-technology/courses/certificate-iv-in-cyber-security--22603VIC-01) | TAFE NSW               | Ongoing    |  Ongoing       |
 
 ## Tools
-<p align="left">
+<p align="left"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>
+  <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="virtualbox" width="60" height="60"/> </a>
+  
 </p>
 
+### Operating Systems
 <p align="left"> 
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a>
-  <a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="virtualbox" width="60" height="60"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> </a> 
-  <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="kali" width="60" height="60"/> </a> 
-  <a href="https://www.debian.org/" target="_blank" rel="noreferrer"> <img src="https://www.debian.org/logos/openlogo-nd.svg" alt="debian" width="60" height="60"/> </a> 
-  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" alt="wireshark" width="60" height="60"/> </a> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" alt="windows" width="60" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="kali" width="60" height="60"/>
+  <img src="https://www.debian.org/logos/openlogo-nd.svg" alt="debian" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/>
 
 ### Network
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" alt="wireshark" width="60" height="60"/>
+<p align="left"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" alt="wireshark" width="60" height="60"/>
+</p>
 
 ### End Points
 
+
 ### SIEM
-  
+<p align="left"> 
+  <img src="https://github.com/KennuC/KennuC/assets/131323586/c296a199-c9e7-4a1e-ab00-86b6320a4c59" alt="splunk" width="60" height="60"/>
 </p>
 
 
 ## 💻 Projects
 
-### Project 1: Network Simulation
+### Project 1: 
+- **Description:** Active Directory Attack
+- **Technologies:** Splunk, Kali Linux, Atomic Red Team, VirtualBox, Domain Controller, Sysmon
+- **Repository:** [Active Diretory Attack](https://github.com/KennuC/ActiveDirectoryAttack/)
+
+### Project 2: Network Simulation
 - **Description:** Simulates and tests complex network configurations
 - **Technologies:** Cisco Packet Tracer, Router, Switch, Access Points, End Devices
 - **Repository:** [Cisco Packet Tracer](https://github.com/KennuC/CiscoPacketTracer)
-
-### Project 2: 
-- **Description:** Learning Python fundamentals
-- **Technologies:** Python, VSCode
-- **Repository:** [Python](https://github.com/KennuC/Python)
-
-### Project 3: 
-- **Description:** Active Directory
-- **Technologies:** VirtualBox
-- **Repository:** 
 
 ## TryHackMe 
 Click to view my profile to see rooms I've completed
