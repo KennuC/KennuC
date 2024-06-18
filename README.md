@@ -54,12 +54,17 @@ My journey in programming has led me to develop a passion for cybersecurity, and
 
 ## 💻 Projects
 
-### Project 1: 
-- **Description:** Active Directory Attack
+### Project 1: Active Directory Attack
+- **Description:** Create a realistic environment for simulating and detecting cyber attacks within an Active Directory infrastructure Utilizing various tools and techniques to monitor, detect, and analyze attack patterns.
 - **Technologies:** Splunk, Kali Linux, Atomic Red Team, VirtualBox, Domain Controller, Sysmon
 - **Repository:** [Active Diretory Attack](https://github.com/KennuC/ActiveDirectoryAttack/)
 
-### Project 2: Network Simulation
+### Project 2: Active Directory
+- **Description:** 
+- **Technologies:** VirtualBox, Domain Controller
+- **Repository:** [Active Diretory Attack](https://github.com/KennuC/ActiveDirectory/)
+
+### Project 3: Network Simulation
 - **Description:** Simulates and tests complex network configurations
 - **Technologies:** Cisco Packet Tracer, Router, Switch, Access Points, End Devices
 - **Repository:** [Cisco Packet Tracer](https://github.com/KennuC/CiscoPacketTracer)
