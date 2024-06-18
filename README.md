@@ -52,7 +52,7 @@ My journey in programming has led me to develop a passion for cybersecurity, and
 
 ## Projects
 
-### Project 1: Active Directory Attack
+### Project 1: Active Directory Attack Simulation
 - **Description:** Create a realistic environment for simulating and detecting cyber attacks within an Active Directory infrastructure Utilizing various tools and techniques to monitor, detect, and analyze attack patterns.
 - **Technologies:** VirtualBox, Kali Linux, Windows 10, Windows Server 2022, Active Directory Domain Services, Splunk, Atomic Red Team, Sysmon, Powershell
 - **Repository:** [Active Directory Attack](https://github.com/KennuC/ActiveDirectoryAttack/)
