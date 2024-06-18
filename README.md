@@ -1,13 +1,12 @@
-## Hi there 👋, I'm Kennu
+# Hi there, I'm Kennu
 <a href="https://www.linkedin.com/in/kennuchallenger/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://tryhackme.com/p/KennuC"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
 
 
-# Welcome to My GitHub Profile!
+## Welcome to My GitHub Profile!
 I'm a passionate cybersecurity student dedicated to exploring and mastering the field of cybersecurity. Here, you'll find a showcase of my projects and certifications. 
 
 
-This page development is still under progress.
 ## Objective
 
 My journey in programming has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst or a Cyber Security Analyst.
@@ -16,7 +15,9 @@ My journey in programming has led me to develop a passion for cybersecurity, and
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-|   | |
+| Active Directory   | [Active Directory](https://github.com/KennuC/ActiveDirectory/) / [Active Directory Attack](https://github.com/KennuC/ActiveDirectoryAttack/) |
+| Splunk | [Active Directory Attack](https://github.com/KennuC/ActiveDirectoryAttack/) |
+
 
 ## Certificates
 | Certificate Name                         | Issuing Organization      | Issue Date      | Credential ID    |
@@ -43,29 +44,26 @@ My journey in programming has led me to develop a passion for cybersecurity, and
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" alt="wireshark" width="60" height="60"/>
 </p>
 
-### End Points
-
-
 ### SIEM
 <p align="left"> 
   <img src="https://github.com/KennuC/KennuC/assets/131323586/c296a199-c9e7-4a1e-ab00-86b6320a4c59" alt="splunk" width="60" height="60"/>
 </p>
 
 
-## 💻 Projects
+## Projects
 
 ### Project 1: Active Directory Attack
 - **Description:** Create a realistic environment for simulating and detecting cyber attacks within an Active Directory infrastructure Utilizing various tools and techniques to monitor, detect, and analyze attack patterns.
-- **Technologies:** Splunk, Kali Linux, Atomic Red Team, VirtualBox, Domain Controller, Sysmon
-- **Repository:** [Active Diretory Attack](https://github.com/KennuC/ActiveDirectoryAttack/)
+- **Technologies:** VirtualBox, Kali Linux, Windows 10, Windows Server 2022, Active Directory Domain Services, Splunk, Atomic Red Team, Sysmon, Powershell
+- **Repository:** [Active Directory Attack](https://github.com/KennuC/ActiveDirectoryAttack/)
 
 ### Project 2: Active Directory
-- **Description:** 
-- **Technologies:** VirtualBox, Domain Controller
-- **Repository:** [Active Diretory](https://github.com/KennuC/ActiveDirectory/)
+- **Description:** Learn how to efficiently manage Active Directory Domain Services through practical tasks.
+- **Technologies:** VirtualBox, Active Directory Domain Services, Excel, Powershell
+- **Repository:** [Active Directory](https://github.com/KennuC/ActiveDirectory/)
 
 ### Project 3: Network Simulation
-- **Description:** Simulates and tests complex network configurations
+- **Description:** Simulates and tests complex network configurations.
 - **Technologies:** Cisco Packet Tracer, Router, Switch, Access Points, End Devices
 - **Repository:** [Cisco Packet Tracer](https://github.com/KennuC/CiscoPacketTracer)
 
