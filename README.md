@@ -58,7 +58,7 @@ My journey in programming has led me to develop a passion for cybersecurity, and
 - **Repository:** [Active Directory Attack](https://github.com/KennuC/ActiveDirectoryAttack/)
 
 ### Project 2: Active Directory
-- **Description:** Learn how to efficiently manage Active Directory Domain Services through practical tasks.
+- **Description:** Learn to gain proficiency in managing Active Directory Domain Services through hands-on, practical tasks.
 - **Technologies:** VirtualBox, Active Directory Domain Services, Excel, Powershell
 - **Repository:** [Active Directory](https://github.com/KennuC/ActiveDirectory/)
 
