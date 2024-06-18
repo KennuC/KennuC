@@ -62,7 +62,7 @@ My journey in programming has led me to develop a passion for cybersecurity, and
 ### Project 2: Active Directory
 - **Description:** 
 - **Technologies:** VirtualBox, Domain Controller
-- **Repository:** [Active Diretory Attack](https://github.com/KennuC/ActiveDirectory/)
+- **Repository:** [Active Diretory](https://github.com/KennuC/ActiveDirectory/)
 
 ### Project 3: Network Simulation
 - **Description:** Simulates and tests complex network configurations
