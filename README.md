@@ -62,11 +62,15 @@ My journey in programming has led me to develop a passion for cybersecurity, and
 - **Technologies:** VirtualBox, Active Directory Domain Services, Excel, Powershell
 - **Repository:** [Active Directory](https://github.com/KennuC/ActiveDirectory/)
 
-### Project 3: Network Simulation
-- **Description:** Simulates and tests complex network configurations.
-- **Technologies:** Cisco Packet Tracer, Router, Switch, Access Points, End Devices
-- **Repository:** [Cisco Packet Tracer](https://github.com/KennuC/CiscoPacketTracer)
 
-## TryHackMe 
+### I am working on...
+- Simulated Penetration Testing
+- Database (MySQL, MongoDB)
+- Network Simulation (Cisco Packet Tracer)
+- Remote Desktop
+- Network analysis (Wireshark) 
+
+<!-- ## TryHackMe 
 Click to view my profile to see rooms I've completed
 <p><a href="https://tryhackme.com/p/KennuC" target="_blank" rel="noreferrer"> <img src="https://tryhackme-badges.s3.amazonaws.com/KennuC.png" alt="TryHackMe"></p>
+-->
