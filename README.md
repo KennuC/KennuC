@@ -13,10 +13,12 @@ My journey in programming has led me to develop a passion for cybersecurity, and
 
 ## Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Active Directory   | [Active Directory](https://github.com/KennuC/ActiveDirectory/) / [Active Directory Attack](https://github.com/KennuC/ActiveDirectoryAttack/) |
-| Splunk | [Active Directory Attack](https://github.com/KennuC/ActiveDirectoryAttack/) |
+| Skill                             | Associated Project         |
+|-----------------------------------|----------------------------|
+| Active Directory                  | [Active Directory](https://github.com/KennuC/ActiveDirectory/) / [Active Directory Attack](https://github.com/KennuC/ActiveDirectoryAttack/) |
+| Splunk                            | [Active Directory Attack](https://github.com/KennuC/ActiveDirectoryAttack/) |
+| Database                          | [Database](https://github.com/KennuC/Database/) | 
+| Penetration Testing               | [Pentest Lab](https://github.com/KennuC/PentestLab) |
 
 
 ## Certificates
@@ -68,13 +70,14 @@ My journey in programming has led me to develop a passion for cybersecurity, and
 - **Technologies:** VirtualBox, Active Directory Domain Services, Excel, Powershell
 - **Repository:** [Active Directory](https://github.com/KennuC/ActiveDirectory/)
 
+### Project 3: Penetration Testing Lab
+- **Description:** Exploring penetration testing techniques and tools using Kali Linux.
+- **Technologies:** Proxmox, Metasploitable2, Nmap, Metasploit, Hydra, Ncrack, Medusa, John The Ripper, Social-Engineering Toolkit, Netwag, Hping3, ASYNchrone, Wireshark, Ettercap
+- **Repository:** [Pentest Lab](https://github.com/KennuC/PentestLab)
 
 ### I am working on...
-- Simulated Penetration Testing
-- Database (MySQL, MongoDB)
-- Network Simulation (Cisco Packet Tracer)
-- Remote Desktop
-- Network analysis (Wireshark) 
+- Website Vulnerability Basics
+- Network Simulation with Cisco Packet Tracer
 
 <!-- ## TryHackMe 
 Click to view my profile to see rooms I've completed
