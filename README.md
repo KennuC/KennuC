@@ -20,16 +20,17 @@ My journey in programming has led me to develop a passion for cybersecurity, and
 
 
 ## Certificates
-| Certificate Name                         | Issuing Organization      | Issue Date      | Credential ID    |
+| Certificate                              | Issuing Organization      | Issue Date      | Credential ID    |
 | ---------------------------------------- | ------------------------- | --------------- | ---------------- |
-| [Google Cybersecurity Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity) | Coursera               | October 2023    | [J6VT6AZLUPLG](https://www.coursera.org/account/accomplishments/professional-cert/J6VT6AZLUPLG)        |
-| [Certificate IV in Cyber Security](https://www.tafensw.edu.au/course-areas/information-and-communication-technology/courses/certificate-iv-in-cyber-security--22603VIC-01) | TAFE NSW               | Ongoing    |  Ongoing       |
+| [Certificate IV in Cyber Security](https://www.tafensw.edu.au/course-areas/information-and-communication-technology/courses/certificate-iv-in-cyber-security--22603VIC-01) | TAFE NSW | June 2024 | |
+| [Google Cybersecurity Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity) | Coursera | October 2023 | [J6VT6AZLUPLG](https://www.coursera.org/account/accomplishments/professional-cert/J6VT6AZLUPLG) |
+
 
 ## Tools
+### Virtualisation
 <p align="left"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>
   <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="virtualbox" width="60" height="60"/> </a>
-  
+  <img src="https://github.com/KennuC/KennuC/assets/131323586/1960f2bf-d94b-4deb-959c-5efbd5d32eb7" alt="proxmox" width="60" height="60"/> </a>
 </p>
 
 ### Operating Systems
@@ -47,6 +48,11 @@ My journey in programming has led me to develop a passion for cybersecurity, and
 ### SIEM
 <p align="left"> 
   <img src="https://github.com/KennuC/KennuC/assets/131323586/c296a199-c9e7-4a1e-ab00-86b6320a4c59" alt="splunk" width="60" height="60"/>
+</p>
+
+### Languages
+<p align="left"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>
 </p>
 
 
