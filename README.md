@@ -24,7 +24,7 @@ My journey in programming has led me to develop a passion for cybersecurity, and
 ## Certificates
 | Certificate                              | Issuing Organization      | Issue Date      | Credential ID    |
 | ---------------------------------------- | ------------------------- | --------------- | ---------------- |
-| [Introduction to Cybersecurity Job Simulation](https://www.theforage.com/simulations/commonwealth-bank/intro-cybersecurity-rdxl) | Coursera | October 2023 | [9Ay8iaQCzsPpvwypM](https://shorturl.at/gOuwJ) |
+| [Commonwealth Bank - Introduction to Cybersecurity Job Simulation](https://www.theforage.com/simulations/commonwealth-bank/intro-cybersecurity-rdxl) | Forage | October 2023 | [9Ay8iaQCzsPpvwypM](https://shorturl.at/gOuwJ) |
 | [Certificate IV in Cyber Security](https://www.tafensw.edu.au/course-areas/information-and-communication-technology/courses/certificate-iv-in-cyber-security--22603VIC-01) | TAFE NSW | June 2024 | |
 | [Google Cybersecurity Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity) | Coursera | October 2023 | [J6VT6AZLUPLG](https://www.coursera.org/account/accomplishments/professional-cert/J6VT6AZLUPLG) |
 
