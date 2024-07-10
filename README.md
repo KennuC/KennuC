@@ -78,6 +78,7 @@ My journey in programming has led me to develop a passion for cybersecurity, I a
 <p align="left">
   
 </p>
+
 ## Projects
 
 ### Project 1: [Active Directory Attack Simulation](https://github.com/KennuC/ActiveDirectoryAttack/)
