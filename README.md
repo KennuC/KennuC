@@ -9,6 +9,20 @@ I'm a passionate cybersecurity student dedicated to exploring and mastering the 
 
 My journey in programming has led me to develop a passion for cybersecurity, I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst or a Cyber Security Analyst.
 
+
+## Education
+| Course                              | Issuing Organization      | Issue Date      |
+| ----------------------------------- | ------------------------- | --------------- |
+| [Certificate IV in Cyber Security](https://www.tafensw.edu.au/course-areas/information-and-communication-technology/courses/certificate-iv-in-cyber-security--22603VIC-01) | TAFE NSW | June 2024 |
+
+
+## Certificates
+| Certificate                              | Issuing Organization      | Issue Date      | Credential ID    |
+| ---------------------------------------- | ------------------------- | --------------- | ---------------- |
+| [ANZ Australia - Cyber Security Management Job Simulation](https://www.theforage.com/simulations/anz/cybersecurity-management-szf9) | Forage | July 2024 | [onajufC8tt8xbFiBh](https://shorturl.at/frbPO) |
+| [Commonwealth Bank - Introduction to Cybersecurity Job Simulation](https://www.theforage.com/simulations/commonwealth-bank/intro-cybersecurity-rdxl) | Forage | July 2024 | [9Ay8iaQCzsPpvwypM](https://shorturl.at/gOuwJ) |
+| [Google Cybersecurity Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity) | Coursera | October 2023 | [J6VT6AZLUPLG](https://www.coursera.org/account/accomplishments/professional-cert/J6VT6AZLUPLG) |
+
 ## Skills
 
 | Skill                             | Associated Project         |
@@ -17,15 +31,6 @@ My journey in programming has led me to develop a passion for cybersecurity, I a
 | Splunk                            | [Active Directory Attack](https://github.com/KennuC/ActiveDirectoryAttack/) |
 | Database                          | [Database](https://github.com/KennuC/Database/) | 
 | Penetration Testing               | [Pentest Lab](https://github.com/KennuC/PentestLab) / [Website Vulnerability Lab](https://github.com/KennuC/WebVulnerabilityBasics)|
-
-
-
-## Certificates
-| Certificate                              | Issuing Organization      | Issue Date      | Credential ID    |
-| ---------------------------------------- | ------------------------- | --------------- | ---------------- |
-| [Commonwealth Bank - Introduction to Cybersecurity Job Simulation](https://www.theforage.com/simulations/commonwealth-bank/intro-cybersecurity-rdxl) | Forage | October 2023 | [9Ay8iaQCzsPpvwypM](https://shorturl.at/gOuwJ) |
-| [Certificate IV in Cyber Security](https://www.tafensw.edu.au/course-areas/information-and-communication-technology/courses/certificate-iv-in-cyber-security--22603VIC-01) | TAFE NSW | June 2024 | |
-| [Google Cybersecurity Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity) | Coursera | October 2023 | [J6VT6AZLUPLG](https://www.coursera.org/account/accomplishments/professional-cert/J6VT6AZLUPLG) |
 
 ## Tools
 ### Virtualisation
