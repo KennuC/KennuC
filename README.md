@@ -21,6 +21,7 @@ My journey in programming has led me to develop a passion for cybersecurity, I a
 | ---------------------------------------- | ------------------------- | --------------- | ---------------- |
 | [ANZ Australia - Cyber Security Management Job Simulation](https://www.theforage.com/simulations/anz/cybersecurity-management-szf9) | Forage | July 2024 | [onajufC8tt8xbFiBh](https://shorturl.at/frbPO) |
 | [Commonwealth Bank - Introduction to Cybersecurity Job Simulation](https://www.theforage.com/simulations/commonwealth-bank/intro-cybersecurity-rdxl) | Forage | July 2024 | [9Ay8iaQCzsPpvwypM](https://shorturl.at/gOuwJ) |
+| [Telstra - Cybersecurity Job Simulation](https://www.theforage.com/simulations/telstra/cybersecurity-cyyo) | Forage | July 2024 | [eLTALm2a2nKtRFL8X](https://shorturl.at/fkFdJ)
 | [Google Cybersecurity Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity) | Coursera | October 2023 | [J6VT6AZLUPLG](https://www.coursera.org/account/accomplishments/professional-cert/J6VT6AZLUPLG) |
 
 ## Skills
