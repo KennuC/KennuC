@@ -13,6 +13,7 @@ My journey in programming has led me to develop a passion for cybersecurity, I a
 ## Education
 | Course                              | Issuing Organization      | Issue Date      |
 | ----------------------------------- | ------------------------- | --------------- |
+| Graduate Certificate in Cyber Security | UNSW | Ongoing |
 | [Certificate IV in Cyber Security](https://www.tafensw.edu.au/course-areas/information-and-communication-technology/courses/certificate-iv-in-cyber-security--22603VIC-01) | TAFE NSW | June 2024 |
 
 
