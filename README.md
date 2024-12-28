@@ -18,12 +18,13 @@ My journey in programming has led me to develop a passion for cybersecurity, I a
 
 
 ## Certificates
-| Certificate                              | Issuing Organization      | Issue Date      | Credential ID    |
-| ---------------------------------------- | ------------------------- | --------------- | ---------------- |
-| [ANZ Australia - Cyber Security Management Job Simulation](https://www.theforage.com/simulations/anz/cybersecurity-management-szf9) | Forage | July 2024 | [onajufC8tt8xbFiBh](https://shorturl.at/frbPO) |
-| [Commonwealth Bank - Introduction to Cybersecurity Job Simulation](https://www.theforage.com/simulations/commonwealth-bank/intro-cybersecurity-rdxl) | Forage | July 2024 | [9Ay8iaQCzsPpvwypM](https://shorturl.at/gOuwJ) |
-| [Telstra - Cybersecurity Job Simulation](https://www.theforage.com/simulations/telstra/cybersecurity-cyyo) | Forage | July 2024 | [eLTALm2a2nKtRFL8X](https://shorturl.at/fkFdJ)
-| [Google Cybersecurity Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity) | Coursera | October 2023 | [J6VT6AZLUPLG](https://www.coursera.org/account/accomplishments/professional-cert/J6VT6AZLUPLG) |
+| Certificate                              | Issuing Organization      | Issue Date      |
+| ---------------------------------------- | ------------------------- | --------------- |
+| [ANZ Australia - Cyber Security Management Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ANZ/Hf4QMESoFeQwXPsiH_ANZ%20Australia_Hrv2554MWXDga4pMj_1720941116764_completion_certificate.pdf) | Forage | July 2024 |
+| [Commonwealth Bank - Introduction to Cybersecurity Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Commonwealth%20Bank/x52Jy9s26xNbZkTQ7_Commonwealth%20Bank_Hrv2554MWXDga4pMj_1720552340699_completion_certificate.pdf) | Forage | July 2024 | 
+| [Telstra - Cybersecurity Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Telstra%20AU/RNhbu8QnDzthwynEf_Telstra_Hrv2554MWXDga4pMj_1721590839876_completion_certificate.pdf) | Forage | July 2024 | 
+| [Google Cybersecurity Certificate](https://www.coursera.org/account/accomplishments/professional-cert/J6VT6AZLUPLG) | Coursera | October 2023 | 
+
 
 ## Skills
 
@@ -77,7 +78,7 @@ My journey in programming has led me to develop a passion for cybersecurity, I a
   <img src="https://atomrace.com/blog/wp-content/uploads/2017/10/metasploit-logo.png" alt="Metasploit" width="60" height="60"/>
   <img src="https://miro.medium.com/v2/resize:fit:710/0*FvyoEolATs1TVCy9.png" alt="Burp Suite" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>
-  <img src="https://atomicredteam.io/static/logo.png" alt="Atomic Red Team" width="60" height="60"/>
+  <img src="https://www.atomicredteam.io/logo.png" alt="Atomic Red Team" width="60" height="60"/>
   <img src="https://asset.brandfetch.io/idHnSFcYKj/idj4y8Dz-_.png" alt="Nmap" width="60" height="60"/>
   <img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" alt="Hydra" width="60" height="60"/>
   <img src="https://www.kali.org/tools/medusa/images/medusa-logo.svg" alt="Medusa" width="60" height="60"/>
