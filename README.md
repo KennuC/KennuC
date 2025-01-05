@@ -13,13 +13,14 @@ My journey in programming has led me to develop a passion for cybersecurity, I a
 ## Education
 | Course                              | Issuing Organization      | Issue Date      |
 | ----------------------------------- | ------------------------- | --------------- |
-| Graduate Certificate in Cyber Security | UNSW | Ongoing |
+| Graduate Certificate in Cyber Security | UNSW | In Progress |
 | [Certificate IV in Cyber Security](https://www.tafensw.edu.au/course-areas/information-and-communication-technology/courses/certificate-iv-in-cyber-security--22603VIC-01) | TAFE NSW | June 2024 |
 
 
 ## Certificates
 | Certificate                              | Issuing Organization      | Issue Date      |
 | ---------------------------------------- | ------------------------- | --------------- |
+| CompTIA Security+ | CompTIA | In Progress |
 | [ANZ Australia - Cyber Security Management Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ANZ/Hf4QMESoFeQwXPsiH_ANZ%20Australia_Hrv2554MWXDga4pMj_1720941116764_completion_certificate.pdf) | Forage | July 2024 |
 | [Commonwealth Bank - Introduction to Cybersecurity Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Commonwealth%20Bank/x52Jy9s26xNbZkTQ7_Commonwealth%20Bank_Hrv2554MWXDga4pMj_1720552340699_completion_certificate.pdf) | Forage | July 2024 | 
 | [Telstra - Cybersecurity Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Telstra%20AU/RNhbu8QnDzthwynEf_Telstra_Hrv2554MWXDga4pMj_1721590839876_completion_certificate.pdf) | Forage | July 2024 | 
