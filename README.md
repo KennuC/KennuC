@@ -20,7 +20,7 @@ My journey in programming has led me to develop a passion for cybersecurity, I a
 ## Certificates
 | Certificate                              | Issuing Organization      | Issue Date      |
 | ---------------------------------------- | ------------------------- | --------------- |
-| CompTIA Security+ | CompTIA | In Progress |
+| CompTIA Security+ | CompTIA | Jan 2025 |
 | [ANZ Australia - Cyber Security Management Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ANZ/Hf4QMESoFeQwXPsiH_ANZ%20Australia_Hrv2554MWXDga4pMj_1720941116764_completion_certificate.pdf) | Forage | July 2024 |
 | [Commonwealth Bank - Introduction to Cybersecurity Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Commonwealth%20Bank/x52Jy9s26xNbZkTQ7_Commonwealth%20Bank_Hrv2554MWXDga4pMj_1720552340699_completion_certificate.pdf) | Forage | July 2024 | 
 | [Telstra - Cybersecurity Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Telstra%20AU/RNhbu8QnDzthwynEf_Telstra_Hrv2554MWXDga4pMj_1721590839876_completion_certificate.pdf) | Forage | July 2024 | 
@@ -55,8 +55,6 @@ My journey in programming has led me to develop a passion for cybersecurity, I a
 - **Description:** Explore fundamental techniques and tools used in identifying and exploiting web vulnerabilities.
 - **Tools:** Proxmox, Metasploitable2, Burpsuite, Zaproxy, Nikto, Dirbuster, Gobuster, PHP
 
-### I am working on...
-- Network Simulation with Cisco Packet Tracer
 
 ## Tools
 ### Virtualisation
