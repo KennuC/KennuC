@@ -39,24 +39,27 @@ My journey in programming has led me to develop a passion for cybersecurity, I a
 
 ## Projects
 
-### Project 1: [Active Directory Attack Simulation](https://github.com/KennuC/ActiveDirectoryAttack/)
+### [Cyber HomeLab](https://github.com/KennuC/Cyber-HomeLab)
+- **Description:** A virtual playground to simulate cyber attacks and network monitoring within a virtual environment using various interconnected tools and systems.
+- **Tools:** pfSense, Kali Linux, Ubuntu Server, Docker, Portainer, BWAPP, DVWA, Webgoat, Wazuh, Nessus, Caldera, Security Onion, Windows Server 2022, Windows 10, The Hive, Cortex
+
+### [Active Directory Attack Simulation](https://github.com/KennuC/ActiveDirectoryAttack/)
 - **Description:** Create a realistic environment for simulating and detecting cyber attacks within an Active Directory infrastructure Utilizing various tools and techniques to monitor, detect, and analyze attack patterns.
 - **Tools:** VirtualBox, Kali Linux, Windows 10, Windows Server 2022, Active Directory Domain Services, Splunk, Atomic Red Team, Sysmon, Powershell
 
-### Project 2: [Active Directory](https://github.com/KennuC/ActiveDirectory/)
-- **Description:** Learn to gain proficiency in managing Active Directory Domain Services through hands-on, practical tasks.
-- **Tools:** VirtualBox, Active Directory Domain Services, Excel, Powershell
-
-### Project 3: [Penetration Testing Lab](https://github.com/KennuC/PentestLab)
+### [Penetration Testing Lab](https://github.com/KennuC/PentestLab)
 - **Description:** Exploring penetration testing techniques and tools using Kali Linux.
 - **Tools:** Proxmox, Metasploitable2, Nmap, Metasploit, Hydra, Ncrack, Medusa, John The Ripper, Social-Engineering Toolkit, Netwag, Hping3, ASYNchrone, Wireshark, Ettercap
 
-### Project 4: [Website Vulnerability Lab](https://github.com/KennuC/WebVulnerabilityLab)
+### [Website Vulnerability Lab](https://github.com/KennuC/WebVulnerabilityLab)
 - **Description:** Explore fundamental techniques and tools used in identifying and exploiting web vulnerabilities.
 - **Tools:** Proxmox, Metasploitable2, Burpsuite, Zaproxy, Nikto, Dirbuster, Gobuster, PHP
 
+### [Active Directory](https://github.com/KennuC/ActiveDirectory/)
+- **Description:** Learn to gain proficiency in managing Active Directory Domain Services through hands-on, practical tasks.
+- **Tools:** VirtualBox, Active Directory Domain Services, Excel, Powershell
 
-## Tools
+## Tools <!-- NEEDS UPDATING -->
 ### Virtualisation
 <p align="left"> 
   <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="virtualbox" width="60" height="60"/> </a>
