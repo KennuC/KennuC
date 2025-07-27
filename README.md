@@ -13,13 +13,14 @@ My journey in programming has led me to develop a passion for cybersecurity, I a
 ## Education
 | Course                              | Issuing Organization      | Issue Date      |
 | ----------------------------------- | ------------------------- | --------------- |
-| Graduate Certificate in Cyber Security | UNSW | In Progress |
+| Graduate Certificate in Cyber Security | UNSW | July 2025 |
 | [Certificate IV in Cyber Security](https://www.tafensw.edu.au/course-areas/information-and-communication-technology/courses/certificate-iv-in-cyber-security--22603VIC-01) | TAFE NSW | June 2024 |
 
 
 ## Certificates
 | Certificate                              | Issuing Organization      | Issue Date      |
 | ---------------------------------------- | ------------------------- | --------------- |
+| CompTIA A+ | CompTIA | July 2025 |
 | CompTIA Security+ | CompTIA | Jan 2025 |
 | [ANZ Australia - Cyber Security Management Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ANZ/Hf4QMESoFeQwXPsiH_ANZ%20Australia_Hrv2554MWXDga4pMj_1720941116764_completion_certificate.pdf) | Forage | July 2024 |
 | [Commonwealth Bank - Introduction to Cybersecurity Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Commonwealth%20Bank/x52Jy9s26xNbZkTQ7_Commonwealth%20Bank_Hrv2554MWXDga4pMj_1720552340699_completion_certificate.pdf) | Forage | July 2024 | 
