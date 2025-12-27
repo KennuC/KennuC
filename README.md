@@ -5,60 +5,37 @@
 ## Welcome to My GitHub Profile!
 I'm a passionate cybersecurity student dedicated to exploring and mastering the field of cybersecurity. Here, you'll find a showcase of my projects and certifications. 
 
-## Objective
-
-My journey in programming has led me to develop a passion for cybersecurity, I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst or a Cyber Security Analyst.
-
 
 ## Education
 | Course                              | Issuing Organization      | Issue Date      |
 | ----------------------------------- | ------------------------- | --------------- |
 | Graduate Certificate in Cyber Security | UNSW | July 2025 |
-| [Certificate IV in Cyber Security](https://www.tafensw.edu.au/course-areas/information-and-communication-technology/courses/certificate-iv-in-cyber-security--22603VIC-01) | TAFE NSW | June 2024 |
+| Certificate IV in Cyber Security | TAFE NSW | June 2024 |
 
 
 ## Certificates
 | Certificate                              | Issuing Organization      | Issue Date      |
 | ---------------------------------------- | ------------------------- | --------------- |
-| [CompTIA A+](https://www.certmetrics.com/comptia/public/download_e_cert.aspx?cert=C7324D39AD178CA830F3631A4C4B9B2AOC2A729627C3128463234F66EA87EFDA7) | CompTIA | July 2025 |
-| [CompTIA Security+](https://www.certmetrics.com/comptia/public/download_e_cert.aspx?cert=46E9EA308165120BCE9B5B2D0D53F590OD8379CBBE9DE07D84915C9BA1C57596D) | CompTIA | Jan 2025 |
-| [ANZ Australia - Cyber Security Management Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ANZ/Hf4QMESoFeQwXPsiH_ANZ%20Australia_Hrv2554MWXDga4pMj_1720941116764_completion_certificate.pdf) | Forage | July 2024 |
-| [Commonwealth Bank - Introduction to Cybersecurity Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Commonwealth%20Bank/x52Jy9s26xNbZkTQ7_Commonwealth%20Bank_Hrv2554MWXDga4pMj_1720552340699_completion_certificate.pdf) | Forage | July 2024 | 
-| [Telstra - Cybersecurity Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Telstra%20AU/RNhbu8QnDzthwynEf_Telstra_Hrv2554MWXDga4pMj_1721590839876_completion_certificate.pdf) | Forage | July 2024 | 
-| [Google Cybersecurity Certificate](https://www.coursera.org/account/accomplishments/professional-cert/J6VT6AZLUPLG) | Coursera | October 2023 | 
+| CompTIA A+| CompTIA | July 2025 |
+| CompTIA Security+ | CompTIA | Jan 2025 |
+| ANZ Australia - Cyber Security Management Job Simulation | Forage | July 2024 |
+| Commonwealth Bank - Introduction to Cybersecurity Job Simulation| Forage | July 2024 | 
+| Telstra - Cybersecurity Job Simulation| Forage | July 2024 | 
+| Google Cybersecurity Certificate| Coursera | October 2023 | 
 
-
-## Skills
-
-| Skill                             | Associated Project         |
-|-----------------------------------|----------------------------|
-| Active Directory                  | [Active Directory](https://github.com/KennuC/ActiveDirectory/) / [Active Directory Attack](https://github.com/KennuC/ActiveDirectoryAttack/) |
-| Splunk                            | [Active Directory Attack](https://github.com/KennuC/ActiveDirectoryAttack/) |
-| Database                          | [Database](https://github.com/KennuC/Database/) | 
-| Penetration Testing               | [Pentest Lab](https://github.com/KennuC/PentestLab) / [Website Vulnerability Lab](https://github.com/KennuC/WebVulnerabilityBasics)|
 
 
 ## Projects
 
-### [Cyber HomeLab](https://github.com/KennuC/Cyber-HomeLab)
-- **Description:** A virtual playground to simulate cyber attacks and network monitoring within a virtual environment using various interconnected tools and systems.
-- **Tools:** pfSense, Kali Linux, Ubuntu Server, Docker, Portainer, BWAPP, DVWA, Webgoat, Wazuh, Nessus, Caldera, Security Onion, Windows Server 2022, Windows 10, The Hive, Cortex
-
-### [Active Directory Attack Simulation](https://github.com/KennuC/ActiveDirectoryAttack/)
-- **Description:** Create a realistic environment for simulating and detecting cyber attacks within an Active Directory infrastructure Utilizing various tools and techniques to monitor, detect, and analyze attack patterns.
-- **Tools:** VirtualBox, Kali Linux, Windows 10, Windows Server 2022, Active Directory Domain Services, Splunk, Atomic Red Team, Sysmon, Powershell
-
-### [Penetration Testing Lab](https://github.com/KennuC/PentestLab)
+### [Basic Penetration Testing Lab](https://github.com/KennuC/BasicPentestLab)
 - **Description:** Exploring penetration testing techniques and tools using Kali Linux.
 - **Tools:** Proxmox, Metasploitable2, Nmap, Metasploit, Hydra, Ncrack, Medusa, John The Ripper, Social-Engineering Toolkit, Netwag, Hping3, ASYNchrone, Wireshark, Ettercap
 
-### [Website Vulnerability Lab](https://github.com/KennuC/WebVulnerabilityLab)
+### [Basic Website Vulnerability Lab](https://github.com/KennuC/BasicWebVulnerabilityLab)
 - **Description:** Explore fundamental techniques and tools used in identifying and exploiting web vulnerabilities.
 - **Tools:** Proxmox, Metasploitable2, Burpsuite, Zaproxy, Nikto, Dirbuster, Gobuster, PHP
 
-### [Active Directory](https://github.com/KennuC/ActiveDirectory/)
-- **Description:** Learn to gain proficiency in managing Active Directory Domain Services through hands-on, practical tasks.
-- **Tools:** VirtualBox, Active Directory Domain Services, Excel, Powershell
+
 
 ## Tools <!-- NEEDS UPDATING -->
 ### Virtualisation
