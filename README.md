@@ -1,6 +1,13 @@
 # Hi there, I'm Kennu
-<a href="https://www.linkedin.com/in/kennuchallenger/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://tryhackme.com/p/KennuC"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+<a href="https://www.linkedin.com/in/kennuchallenger/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.credly.com/users/kennu-challenger">
+  <img src="https://img.shields.io/badge/Credly-FF6F00?style=for-the-badge&logo=credly&logoColor=white" />
+</a>
+<a href="https://tryhackme.com/p/KennuC">
+  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+</a>
 
 ## Welcome to My GitHub Profile!
 I'm a passionate cybersecurity student dedicated to exploring and mastering the field of cybersecurity. Here, you'll find a showcase of my projects and certifications. 
@@ -16,8 +23,11 @@ I'm a passionate cybersecurity student dedicated to exploring and mastering the 
 ## Certificates
 | Certificate                              | Issuing Organization      | Issue Date      |
 | ---------------------------------------- | ------------------------- | --------------- |
+| CompTIA Secure Infrastructure Specialist – CSIS | CompTIA | December 2025 |
+| CompTIA IT Operations Specialist – CIOS | CompTIA | December 2025 |
+| CompTIA Network+| CompTIA | December 2025 |
 | CompTIA A+| CompTIA | July 2025 |
-| CompTIA Security+ | CompTIA | Jan 2025 |
+| CompTIA Security+ | CompTIA | January 2025 |
 | ANZ Australia - Cyber Security Management Job Simulation | Forage | July 2024 |
 | Commonwealth Bank - Introduction to Cybersecurity Job Simulation| Forage | July 2024 | 
 | Telstra - Cybersecurity Job Simulation| Forage | July 2024 | 
